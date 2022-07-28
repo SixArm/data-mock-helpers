@@ -18,3 +18,9 @@ Quartz
 Ruby
 Sapphire
 Topaz
+Uvite
+Verdite
+Wavellite
+Xanthite
+Yuksporite
+Zircon
