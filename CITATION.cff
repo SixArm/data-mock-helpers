@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: Data mock helper files
+message: >-
+  If you use this work and you want to cite it,
+  then you can use the metadata from this file.
+type: software
+authors:
+  - given-names: Joel Parker
+    family-names: Henderson
+    email: joel@joelparkerhenderson.com
+    affiliation: joelparkerhenderson.com
+    orcid: 'https://orcid.org/0009-0000-4681-282X'
+identifiers:
+  - type: url
+    value: 'https://github.com/SixArm/data-mock-helpers/'
+    description: Data mock helper files
+repository-code: 'https://github.com/SixArm/data-mock-helpers/'
+abstract: >-
+  Data mock helper files
+license: See license file
